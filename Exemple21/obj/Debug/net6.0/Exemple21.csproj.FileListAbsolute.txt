@@ -1,0 +1,15 @@
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\bin\Debug\net6.0\Exemple21.exe
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\bin\Debug\net6.0\Exemple21.deps.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\bin\Debug\net6.0\Exemple21.runtimeconfig.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\bin\Debug\net6.0\Exemple21.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\bin\Debug\net6.0\Exemple21.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.csproj.AssemblyReference.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.AssemblyInfoInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.AssemblyInfo.cs
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.csproj.CoreCompileInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\refint\Exemple21.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\Exemple21.genruntimeconfig.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple21\obj\Debug\net6.0\ref\Exemple21.dll
