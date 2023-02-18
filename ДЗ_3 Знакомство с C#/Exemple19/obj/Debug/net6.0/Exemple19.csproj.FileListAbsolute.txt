@@ -1,0 +1,15 @@
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\bin\Debug\net6.0\Exemple19.exe
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\bin\Debug\net6.0\Exemple19.deps.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\bin\Debug\net6.0\Exemple19.runtimeconfig.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\bin\Debug\net6.0\Exemple19.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\bin\Debug\net6.0\Exemple19.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.csproj.AssemblyReference.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.AssemblyInfoInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.AssemblyInfo.cs
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.csproj.CoreCompileInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\refint\Exemple19.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\Exemple19.genruntimeconfig.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_3 Знакомство с C#\Exemple19\obj\Debug\net6.0\ref\Exemple19.dll
